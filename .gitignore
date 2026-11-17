@@ -1,0 +1,5 @@
+# Carpetas y archivos que Git debe ignorar en Python/Flask
+venv/
+__pycache__/
+*.pyc
+.DS_Store

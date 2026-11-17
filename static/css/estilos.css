@@ -1,0 +1,61 @@
+/* Variables de colores oficiales basadas en el logotipo de Crisolvi */
+:root {
+    --verde-crisolvi: #4CAF50;
+    --azul-crisolvi: #2196F3;
+    --amarillo-crisolvi: #FFC107;
+    --morado-crisolvi: #7B1FA2;
+    --fondo-suave-azul: #E3F2FD;
+    --fondo-suave-amarillo: #FFFDF2;
+}
+
+/* Degradado vibrante para la portada principal (Hero) */
+.bg-crisolvi-hero {
+    background: linear-gradient(135deg, var(--verde-crisolvi) 0%, var(--azul-crisolvi) 100%);
+    color: white;
+}
+
+/* Fondos pastel suaves para alternar secciones y romper el blanco */
+.bg-suave-azul {
+    background-color: var(--fondo-suave-azul);
+}
+
+.bg-suave-amarillo {
+    background-color: var(--fondo-suave-amarillo);
+}
+
+/* Tarjetas dinámicas con colores institucionales alternados */
+.card-crisolvi {
+    border: none;
+    border-top: 5px solid var(--azul-crisolvi);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card-crisolvi:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Variantes de color para las tarjetas */
+.borde-amarillo {
+    border-top-color: var(--amarillo-crisolvi) !important;
+}
+
+.borde-morado {
+    border-top-color: var(--morado-crisolvi) !important;
+}
+
+.borde-verde {
+    border-top-color: var(--verde-crisolvi) !important;
+}
+
+/* Botón institucional morado */
+.btn-crisolvi-morado {
+    background-color: var(--morado-crisolvi);
+    color: white;
+    border: none;
+}
+
+.btn-crisolvi-morado:hover {
+    background-color: #6A1B9A;
+    color: white;
+}

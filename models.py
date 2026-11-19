@@ -51,7 +51,7 @@ equipo_crisolvi = [
     IntegranteEquipo(
         cargo="Psicología",
         dotacion="1 Psicóloga",
-        descripcion="Evaluación diagnóstica (Decreto 170), contención emocional, apoyo en convivencia y talleres a familias."
+        descripcion="Evaluación diagnóstica, contención emocional, apoyo en convivencia y talleres a familias."
     ),
     IntegranteEquipo(
         cargo="Kinesiología",

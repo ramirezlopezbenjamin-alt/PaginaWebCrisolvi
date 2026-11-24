@@ -1,6 +1,6 @@
 # Sitio Web Institucional - Escuela Especial Crisolvi
 
-Portal informativo desarrollado durante mi práctica profesional para la **Escuela Especial Crisolvi** (Arica, Chile - RBD 12536-9), institución especializada en la atención integral de estudiantes con TEA, discapacidad visual y multidéficit.
+Portal informativo desarrollado durante mi práctica profesional para la **Escuela Especial Crisolvi** (Arica, Chile - RBD 12536-9), institución especializada en la atención integral de estudiantes con TEA, discapacidad visual y multidéficit hubicada en Nicolás Hidalgo 1882.
 
 ## Tecnologías Utilizadas
 * **Backend:** Python 3 y Flask.

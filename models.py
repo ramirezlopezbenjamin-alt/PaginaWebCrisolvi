@@ -56,11 +56,11 @@ equipo_crisolvi = [
     IntegranteEquipo(
         cargo="Kinesiología",
         dotacion="1 Kinesióloga",
-        descripcion="Rehabilitación motora, postura, patrones de movimiento y apoyo en Educación Física adaptada."
+        descripcion="Rehabilitación motora, postura, patrones de movimiento, apoyo en Educación Física adaptada y talleres a familias."
     ),
     IntegranteEquipo(
         cargo="Fonoaudiología y Terapia Ocupacional",
         dotacion="1 Fonoaudióloga • 1 Terapeuta",
-        descripcion="Estimulación del lenguaje, comunicación alternativa (pictogramas), autonomía y regulación sensorial."
+        descripcion="Estimulación del lenguaje, comunicación alternativa (pictogramas), autonomía, regulación sensorial y talleres a familias."
     )
 ]

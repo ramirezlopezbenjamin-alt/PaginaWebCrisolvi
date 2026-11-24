@@ -59,3 +59,11 @@
     background-color: #6A1B9A;
     color: white;
 }
+
+.titulo-principal {
+    /* 1° Intenta usar Castellar (PC Windows) */
+    /* 2° Si es un celular/Mac, usa Cinzel de Google Fonts */
+    /* 3° Si no hay internet, usa una fuente clasica cob remates (serif) */
+    font-family: 'Castellar', 'Cinzel', serif;
+    letter-spacing: 2px; /* separa ligeramente las letras para mayor legibilidad */
+}
